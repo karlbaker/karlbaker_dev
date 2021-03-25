@@ -80,6 +80,7 @@ DATABASES = {
         'NAME': 'karlbakerdevdb',
         'USER': os.environ['DB_USER'],
         'PASSWORD': os.environ['DB_PASS'],
+    }
 }
 
 
